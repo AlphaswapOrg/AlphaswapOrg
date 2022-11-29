@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1c5b2cc.chunk.css",
+    "main.js": "/static/js/main.272067bf.chunk.js",
+    "main.js.map": "/static/js/main.272067bf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e478802c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e478802c.js.map",
+    "static/css/2.6e48282e.chunk.css": "/static/css/2.6e48282e.chunk.css",
+    "static/js/2.a083768f.chunk.js": "/static/js/2.a083768f.chunk.js",
+    "static/js/2.a083768f.chunk.js.map": "/static/js/2.a083768f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6e48282e.chunk.css.map": "/static/css/2.6e48282e.chunk.css.map",
+    "static/css/main.e1c5b2cc.chunk.css.map": "/static/css/main.e1c5b2cc.chunk.css.map",
+    "static/js/2.a083768f.chunk.js.LICENSE.txt": "/static/js/2.a083768f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Judson-Regular.1af636f8.ttf",
+    "static/media/CountdownBanner.module.scss": "/static/media/banner.cc6fe64e.png",
+    "static/media/Style.module.scss": "/static/media/bg.4b8f01e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e478802c.js",
+    "static/css/2.6e48282e.chunk.css",
+    "static/js/2.a083768f.chunk.js",
+    "static/css/main.e1c5b2cc.chunk.css",
+    "static/js/main.272067bf.chunk.js"
+  ]
+}
