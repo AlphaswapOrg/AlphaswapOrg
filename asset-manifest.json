@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd940672.css",
-    "main.js": "/static/js/main.fa11896e.js",
+    "main.js": "/static/js/main.60614b75.js",
     "static/media/bg.png": "/static/media/bg.4b8f01e23013852c6d68.png",
     "static/media/Judson-Regular.ttf": "/static/media/Judson-Regular.1af636f8ed04358d81bb.ttf",
     "static/media/banner.png": "/static/media/banner.cc6fe64ed845e73651ff.png",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.cd940672.css",
-    "static/js/main.fa11896e.js"
+    "static/js/main.60614b75.js"
   ]
 }
